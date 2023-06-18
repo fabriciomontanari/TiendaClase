@@ -1,0 +1,53 @@
+
+/* 
+    Created on : 22 may 2023, 20:13:34
+    Author     : fabrimontanari
+*/
+
+h2 {
+    background-color: blue;
+    color: white;
+}
+            
+h3 {
+    text-align: center;
+    background-color: green;
+    color: red;
+}
+            
+footer {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+        
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+    
+}
+
+/* para esto se utiliza un id*/
+#alerta {
+    background-color: lime;
+    color: red;
+}
+
+/* para esto se utiliza class*/
+.aviso {
+    background-color: brown;
+    color: white;
+}
+
+p span {
+    background-color: black;
+    color: white;
+}
+
