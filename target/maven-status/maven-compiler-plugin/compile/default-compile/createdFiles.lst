@@ -1,0 +1,8 @@
+com/tienda/ProjectConfig.class
+com/tienda/service/FirebaseStorageService.class
+com/tienda/dao/CategoriaDao.class
+com/tienda/service/impl/CategoriaServiceImpl.class
+com/tienda/service/CategoriaService.class
+com/tienda/Controller/CategoriaController.class
+com/tienda/TiendaApplication.class
+com/tienda/domain/Categoria.class
