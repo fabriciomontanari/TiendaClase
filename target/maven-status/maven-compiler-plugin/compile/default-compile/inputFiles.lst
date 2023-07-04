@@ -1,9 +1,14 @@
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/dao/CategoriaDao.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/domain/Producto.java
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/FirebaseStorageService.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/TiendaApplication.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/impl/ProductoServiceImpl.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/impl/FirebaseStorageServiceImpl.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/Controller/ProductoController.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/dao/ProductoDao.java
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/domain/Categoria.java
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/CategoriaService.java
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/ProjectConfig.java
-/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/TiendaApplication.java
-/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/impl/FirebaseStorageServiceImpl.java
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/Controller/CategoriaController.java
 /Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/impl/CategoriaServiceImpl.java
+/Users/fabrimontanari/Desktop/tienda_l/src/main/java/com/tienda/service/ProductoService.java
